@@ -25,6 +25,7 @@ Homepage for Horiseon, organized to help users navigate to the main features of 
 
 ## Screenshots of Application
 
-
+<img width="1436" alt="Screenshot 2023-02-18 at 11 07 35 AM" src="https://user-images.githubusercontent.com/112597870/219878958-7dddc25c-a649-4f70-bcb4-3fdd4fc39318.png">
+<img width="1428" alt="Screenshot 2023-02-18 at 11 07 50 AM" src="https://user-images.githubusercontent.com/112597870/219878961-4f0b971d-e5d3-4298-ab36-6786b33f6ca1.png">
 
 ## Link to Deployed Application
